@@ -1,0 +1,4 @@
+*.tfrecord
+*.csv
+/frameword/model_files/
+/frameword/1/
